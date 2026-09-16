@@ -1,0 +1,17 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+390392df-a33d-41cf-9675-23bd6b1874ad:Dummys Carro Hatch:Dummys Carro Hatch
+12bc6a3b-594f-45b7-a25f-3d261a8cea50:Dummys Carro Sedan:Dummys Carro Sedan
+3e6b4982-404b-406b-a369-497b4176c9be:Dummys ImVehFt:Dummys ImVehFt
+665e6c2a-ac1a-4474-9e06-5041eba2eb03:Dummys Tuning:Dummys Tuning
+81fff7d1-f166-4ad7-a0ff-5aec9ab320c5:Materiais ImVehFt:Materiais ImVehFt
+fb9d1d6a-1147-4eb0-926c-08c2b1641269:Materiais Veiculos:Materiais Veiculos
+af24755d-abb5-46aa-89e6-06d222229718:Placas:Placas
+aa3cfa1e-47c9-43ca-a3c9-d870edb68fe6:Pneus:Pneus
+060caf5c-2cd4-478d-90f2-1bf79c9698a7:Skins:Skins
