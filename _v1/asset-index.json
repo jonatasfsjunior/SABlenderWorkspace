@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0.0",
+  "asset_size_bytes": 16866472,
+  "asset_count": 283,
+  "file_count": 1,
+  "pages": [
+    {
+      "url": "_v1/assets-00000.json",
+      "hash": "SHA256:7ec1dacd934dcac4bb60288395176eb4e64165d4bb4a05b3714e9dd6b5237a60"
+    }
+  ],
+  "catalogs": [
+    {
+      "path": "Armas",
+      "uuids": [
+        "30342742-d3d1-4c17-bd54-e4d06a5be6a6"
+      ],
+      "simple_name": "Armas"
+    },
+    {
+      "path": "Dummys Carro Hatch",
+      "uuids": [
+        "390392df-a33d-41cf-9675-23bd6b1874ad"
+      ],
+      "simple_name": "Dummys Carro Hatch"
+    },
+    {
+      "path": "Dummys Carro Sedan",
+      "uuids": [
+        "12bc6a3b-594f-45b7-a25f-3d261a8cea50"
+      ],
+      "simple_name": "Dummys Carro Sedan"
+    },
+    {
+      "path": "Dummys ImVehFt",
+      "uuids": [
+        "3e6b4982-404b-406b-a369-497b4176c9be"
+      ],
+      "simple_name": "Dummys ImVehFt"
+    },
+    {
+      "path": "Dummys Tuning",
+      "uuids": [
+        "665e6c2a-ac1a-4474-9e06-5041eba2eb03"
+      ],
+      "simple_name": "Dummys Tuning"
+    },
+    {
+      "path": "Materiais ImVehFt",
+      "uuids": [
+        "81fff7d1-f166-4ad7-a0ff-5aec9ab320c5"
+      ],
+      "simple_name": "Materiais ImVehFt"
+    },
+    {
+      "path": "Materiais Veiculos",
+      "uuids": [
+        "fb9d1d6a-1147-4eb0-926c-08c2b1641269"
+      ],
+      "simple_name": "Materiais Veiculos"
+    },
+    {
+      "path": "Placas",
+      "uuids": [
+        "af24755d-abb5-46aa-89e6-06d222229718"
+      ],
+      "simple_name": "Placas"
+    },
+    {
+      "path": "Pneus",
+      "uuids": [
+        "aa3cfa1e-47c9-43ca-a3c9-d870edb68fe6"
+      ],
+      "simple_name": "Pneus"
+    },
+    {
+      "path": "Skins",
+      "uuids": [
+        "060caf5c-2cd4-478d-90f2-1bf79c9698a7"
+      ],
+      "simple_name": "Skins"
+    }
+  ]
+}

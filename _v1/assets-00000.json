@@ -1,0 +1,6669 @@
+{
+  "asset_count": 283,
+  "file_count": 1,
+  "assets": [
+    {
+      "name": "breaklight_l_material",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/breaklight_l_material.webp",
+        "hash": "SHA256:59d5dcf8becb7dd758eb5fb1f607a4693cefbc5766d0726ee7dca466a47e2061"
+      },
+      "meta": {
+        "catalog_id": "81fff7d1-f166-4ad7-a0ff-5aec9ab320c5"
+      }
+    },
+    {
+      "name": "breaklight_r_material",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/breaklight_r_material.webp",
+        "hash": "SHA256:59d5dcf8becb7dd758eb5fb1f607a4693cefbc5766d0726ee7dca466a47e2061"
+      },
+      "meta": {
+        "catalog_id": "81fff7d1-f166-4ad7-a0ff-5aec9ab320c5"
+      }
+    },
+    {
+      "name": "default_day_material",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/default_day_material.webp",
+        "hash": "SHA256:59d5dcf8becb7dd758eb5fb1f607a4693cefbc5766d0726ee7dca466a47e2061"
+      },
+      "meta": {
+        "catalog_id": "81fff7d1-f166-4ad7-a0ff-5aec9ab320c5"
+      }
+    },
+    {
+      "name": "foglight_l_material",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/foglight_l_material.webp",
+        "hash": "SHA256:59d5dcf8becb7dd758eb5fb1f607a4693cefbc5766d0726ee7dca466a47e2061"
+      },
+      "meta": {
+        "catalog_id": "81fff7d1-f166-4ad7-a0ff-5aec9ab320c5"
+      }
+    },
+    {
+      "name": "foglight_r_material",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/foglight_r_material.webp",
+        "hash": "SHA256:59d5dcf8becb7dd758eb5fb1f607a4693cefbc5766d0726ee7dca466a47e2061"
+      },
+      "meta": {
+        "catalog_id": "81fff7d1-f166-4ad7-a0ff-5aec9ab320c5"
+      }
+    },
+    {
+      "name": "frontlight_l_material",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/frontlight_l_material.webp",
+        "hash": "SHA256:59d5dcf8becb7dd758eb5fb1f607a4693cefbc5766d0726ee7dca466a47e2061"
+      },
+      "meta": {
+        "catalog_id": "81fff7d1-f166-4ad7-a0ff-5aec9ab320c5"
+      }
+    },
+    {
+      "name": "frontlight_r_material",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/frontlight_r_material.webp",
+        "hash": "SHA256:59d5dcf8becb7dd758eb5fb1f607a4693cefbc5766d0726ee7dca466a47e2061"
+      },
+      "meta": {
+        "catalog_id": "81fff7d1-f166-4ad7-a0ff-5aec9ab320c5"
+      }
+    },
+    {
+      "name": "indicator_lf_material",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/indicator_lf_material.webp",
+        "hash": "SHA256:59d5dcf8becb7dd758eb5fb1f607a4693cefbc5766d0726ee7dca466a47e2061"
+      },
+      "meta": {
+        "catalog_id": "81fff7d1-f166-4ad7-a0ff-5aec9ab320c5"
+      }
+    },
+    {
+      "name": "indicator_lm_material",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/indicator_lm_material.webp",
+        "hash": "SHA256:59d5dcf8becb7dd758eb5fb1f607a4693cefbc5766d0726ee7dca466a47e2061"
+      },
+      "meta": {
+        "catalog_id": "81fff7d1-f166-4ad7-a0ff-5aec9ab320c5"
+      }
+    },
+    {
+      "name": "indicator_lr_material",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/indicator_lr_material.webp",
+        "hash": "SHA256:59d5dcf8becb7dd758eb5fb1f607a4693cefbc5766d0726ee7dca466a47e2061"
+      },
+      "meta": {
+        "catalog_id": "81fff7d1-f166-4ad7-a0ff-5aec9ab320c5"
+      }
+    },
+    {
+      "name": "indicator_rf_material",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/indicator_rf_material.webp",
+        "hash": "SHA256:59d5dcf8becb7dd758eb5fb1f607a4693cefbc5766d0726ee7dca466a47e2061"
+      },
+      "meta": {
+        "catalog_id": "81fff7d1-f166-4ad7-a0ff-5aec9ab320c5"
+      }
+    },
+    {
+      "name": "indicator_rm_material",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/indicator_rm_material.webp",
+        "hash": "SHA256:59d5dcf8becb7dd758eb5fb1f607a4693cefbc5766d0726ee7dca466a47e2061"
+      },
+      "meta": {
+        "catalog_id": "81fff7d1-f166-4ad7-a0ff-5aec9ab320c5"
+      }
+    },
+    {
+      "name": "indicator_rr_material",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/indicator_rr_material.webp",
+        "hash": "SHA256:59d5dcf8becb7dd758eb5fb1f607a4693cefbc5766d0726ee7dca466a47e2061"
+      },
+      "meta": {
+        "catalog_id": "81fff7d1-f166-4ad7-a0ff-5aec9ab320c5"
+      }
+    },
+    {
+      "name": "light_allday_material",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/light_allday_material.webp",
+        "hash": "SHA256:59d5dcf8becb7dd758eb5fb1f607a4693cefbc5766d0726ee7dca466a47e2061"
+      },
+      "meta": {
+        "catalog_id": "81fff7d1-f166-4ad7-a0ff-5aec9ab320c5"
+      }
+    },
+    {
+      "name": "light_night_material",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/light_night_material.webp",
+        "hash": "SHA256:59d5dcf8becb7dd758eb5fb1f607a4693cefbc5766d0726ee7dca466a47e2061"
+      },
+      "meta": {
+        "catalog_id": "81fff7d1-f166-4ad7-a0ff-5aec9ab320c5"
+      }
+    },
+    {
+      "name": "rearlight_l_material",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/rearlight_l_material.webp",
+        "hash": "SHA256:59d5dcf8becb7dd758eb5fb1f607a4693cefbc5766d0726ee7dca466a47e2061"
+      },
+      "meta": {
+        "catalog_id": "81fff7d1-f166-4ad7-a0ff-5aec9ab320c5"
+      }
+    },
+    {
+      "name": "rearlight_r_material",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/rearlight_r_material.webp",
+        "hash": "SHA256:59d5dcf8becb7dd758eb5fb1f607a4693cefbc5766d0726ee7dca466a47e2061"
+      },
+      "meta": {
+        "catalog_id": "81fff7d1-f166-4ad7-a0ff-5aec9ab320c5"
+      }
+    },
+    {
+      "name": "revlight_l_material ",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/revlight_l_material.webp",
+        "hash": "SHA256:59d5dcf8becb7dd758eb5fb1f607a4693cefbc5766d0726ee7dca466a47e2061"
+      },
+      "meta": {
+        "catalog_id": "81fff7d1-f166-4ad7-a0ff-5aec9ab320c5"
+      }
+    },
+    {
+      "name": "revlight_r_material ",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/revlight_r_material.webp",
+        "hash": "SHA256:59d5dcf8becb7dd758eb5fb1f607a4693cefbc5766d0726ee7dca466a47e2061"
+      },
+      "meta": {
+        "catalog_id": "81fff7d1-f166-4ad7-a0ff-5aec9ab320c5"
+      }
+    },
+    {
+      "name": "vehicledash32",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/vehicledash32.webp",
+        "hash": "SHA256:f5d59ee83e7cf22b332c579845b83e2421a32021540ecdc9f6f49ac3a6a0bcc1"
+      },
+      "meta": {
+        "catalog_id": "fb9d1d6a-1147-4eb0-926c-08c2b1641269"
+      }
+    },
+    {
+      "name": "vehiclegeneric256",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/vehiclegeneric256.webp",
+        "hash": "SHA256:1430e291bf395e0ecc4750e6c373bb354cc15fe7651626e92012ea9d5ecc14ac"
+      },
+      "meta": {
+        "catalog_id": "fb9d1d6a-1147-4eb0-926c-08c2b1641269"
+      }
+    },
+    {
+      "name": "vehiclegeneric256 [env:16,spec]",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/vehiclegeneric256-env16spec.webp",
+        "hash": "SHA256:1430e291bf395e0ecc4750e6c373bb354cc15fe7651626e92012ea9d5ecc14ac"
+      },
+      "meta": {
+        "catalog_id": "fb9d1d6a-1147-4eb0-926c-08c2b1641269"
+      }
+    },
+    {
+      "name": "vehiclegeneric256 [env:9,spec,trans]",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/vehiclegeneric256-env9spectrans.webp",
+        "hash": "SHA256:1430e291bf395e0ecc4750e6c373bb354cc15fe7651626e92012ea9d5ecc14ac"
+      },
+      "meta": {
+        "catalog_id": "fb9d1d6a-1147-4eb0-926c-08c2b1641269"
+      }
+    },
+    {
+      "name": "vehiclegeneric256 [prim,env:5]",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/vehiclegeneric256-primenv5.webp",
+        "hash": "SHA256:1430e291bf395e0ecc4750e6c373bb354cc15fe7651626e92012ea9d5ecc14ac"
+      },
+      "meta": {
+        "catalog_id": "fb9d1d6a-1147-4eb0-926c-08c2b1641269"
+      }
+    },
+    {
+      "name": "vehiclegeneric256 [spec]",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/vehiclegeneric256-spec.webp",
+        "hash": "SHA256:1430e291bf395e0ecc4750e6c373bb354cc15fe7651626e92012ea9d5ecc14ac"
+      },
+      "meta": {
+        "catalog_id": "fb9d1d6a-1147-4eb0-926c-08c2b1641269"
+      }
+    },
+    {
+      "name": "vehiclegrunge256 [prim,env:9,spec]",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/vehiclegrunge256-primenv9spec.webp",
+        "hash": "SHA256:7ce4f7face7582e2897bfe7f4ac13ac10357539098df5ace2390a85fe4b9fe52"
+      },
+      "meta": {
+        "catalog_id": "fb9d1d6a-1147-4eb0-926c-08c2b1641269"
+      }
+    },
+    {
+      "name": "vehiclegrunge256 [sec,env:9,spec]",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/vehiclegrunge256-secenv9spec.webp",
+        "hash": "SHA256:7ce4f7face7582e2897bfe7f4ac13ac10357539098df5ace2390a85fe4b9fe52"
+      },
+      "meta": {
+        "catalog_id": "fb9d1d6a-1147-4eb0-926c-08c2b1641269"
+      }
+    },
+    {
+      "name": "vehiclelights128 [env:5]",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/vehiclelights128-env5.webp",
+        "hash": "SHA256:59d5dcf8becb7dd758eb5fb1f607a4693cefbc5766d0726ee7dca466a47e2061"
+      },
+      "meta": {
+        "catalog_id": "fb9d1d6a-1147-4eb0-926c-08c2b1641269"
+      }
+    },
+    {
+      "name": "vehiclelights128 [env:9,spec,trans,FL]",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/vehiclelights128-env9spectransfl.webp",
+        "hash": "SHA256:59d5dcf8becb7dd758eb5fb1f607a4693cefbc5766d0726ee7dca466a47e2061"
+      },
+      "meta": {
+        "catalog_id": "fb9d1d6a-1147-4eb0-926c-08c2b1641269"
+      }
+    },
+    {
+      "name": "vehiclelights128 [env:9,spec,trans,FR]",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/vehiclelights128-env9spectransfr.webp",
+        "hash": "SHA256:59d5dcf8becb7dd758eb5fb1f607a4693cefbc5766d0726ee7dca466a47e2061"
+      },
+      "meta": {
+        "catalog_id": "fb9d1d6a-1147-4eb0-926c-08c2b1641269"
+      }
+    },
+    {
+      "name": "vehiclelights128 [env:9,spec,trans,RL]",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/vehiclelights128-env9spectransrl.webp",
+        "hash": "SHA256:59d5dcf8becb7dd758eb5fb1f607a4693cefbc5766d0726ee7dca466a47e2061"
+      },
+      "meta": {
+        "catalog_id": "fb9d1d6a-1147-4eb0-926c-08c2b1641269"
+      }
+    },
+    {
+      "name": "vehiclelights128 [env:9,spec,trans,RR]",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/vehiclelights128-env9spectransrr.webp",
+        "hash": "SHA256:59d5dcf8becb7dd758eb5fb1f607a4693cefbc5766d0726ee7dca466a47e2061"
+      },
+      "meta": {
+        "catalog_id": "fb9d1d6a-1147-4eb0-926c-08c2b1641269"
+      }
+    },
+    {
+      "name": "vehiclelights128 [env:9,spec,trans]",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/vehiclelights128-env9spectrans.webp",
+        "hash": "SHA256:59d5dcf8becb7dd758eb5fb1f607a4693cefbc5766d0726ee7dca466a47e2061"
+      },
+      "meta": {
+        "catalog_id": "fb9d1d6a-1147-4eb0-926c-08c2b1641269"
+      }
+    },
+    {
+      "name": "vehiclelights128 [spec,FL]",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/vehiclelights128-specfl.webp",
+        "hash": "SHA256:59d5dcf8becb7dd758eb5fb1f607a4693cefbc5766d0726ee7dca466a47e2061"
+      },
+      "meta": {
+        "catalog_id": "fb9d1d6a-1147-4eb0-926c-08c2b1641269"
+      }
+    },
+    {
+      "name": "vehiclelights128 [spec,FR]",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/vehiclelights128-specfr.webp",
+        "hash": "SHA256:59d5dcf8becb7dd758eb5fb1f607a4693cefbc5766d0726ee7dca466a47e2061"
+      },
+      "meta": {
+        "catalog_id": "fb9d1d6a-1147-4eb0-926c-08c2b1641269"
+      }
+    },
+    {
+      "name": "vehiclelights128 [spec,RL]",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/vehiclelights128-specrl.webp",
+        "hash": "SHA256:59d5dcf8becb7dd758eb5fb1f607a4693cefbc5766d0726ee7dca466a47e2061"
+      },
+      "meta": {
+        "catalog_id": "fb9d1d6a-1147-4eb0-926c-08c2b1641269"
+      }
+    },
+    {
+      "name": "vehiclescratch64 [trans]",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/vehiclescratch64-trans.webp",
+        "hash": "SHA256:27dd365dec626d113741fb8249217c57c5fe155052af73a32ec9c1fcdddba767"
+      },
+      "meta": {
+        "catalog_id": "fb9d1d6a-1147-4eb0-926c-08c2b1641269"
+      }
+    },
+    {
+      "name": "vehicleshatter128",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/vehicleshatter128.webp",
+        "hash": "SHA256:e7408eea7bb1a119eae23a92fa66d9460a20979f67cc7ff5876d443a37cf1f67"
+      },
+      "meta": {
+        "catalog_id": "fb9d1d6a-1147-4eb0-926c-08c2b1641269"
+      }
+    },
+    {
+      "name": "vehiclesteering128",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/vehiclesteering128.webp",
+        "hash": "SHA256:5d36405bde3550d7c3bc978bc63bb39cb1f921eca7830c95fd07757e4d7bd3a7"
+      },
+      "meta": {
+        "catalog_id": "fb9d1d6a-1147-4eb0-926c-08c2b1641269"
+      }
+    },
+    {
+      "name": "vehicletyres128",
+      "id_type": "MATERIAL",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Material/vehicletyres128.webp",
+        "hash": "SHA256:0c746a90150161b2b09691b02345dd4f91aad8589e00d4bd3c8e0b68391f3036"
+      },
+      "meta": {
+        "catalog_id": "fb9d1d6a-1147-4eb0-926c-08c2b1641269"
+      }
+    },
+    {
+      "name": "ak47",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/ak47.webp",
+        "hash": "SHA256:ab977db41a2cf17eed20915b95f0461a73432e7f8debacc3435ac8376c37fb67"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.091873049736023,
+              0.13046839833259583,
+              0.31529390811920166
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "armour",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/armour.webp",
+        "hash": "SHA256:7d1e686e18b24d844dd49016f8475a4c5e842b26cdeb5fc12ea59014af59d5b3"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5744994878768921,
+              0.5603343844413757,
+              0.49452412128448486
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "army.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/armydff.webp",
+        "hash": "SHA256:e6cd2a7fe512a9bbc42f8457d432f3ec71f2201bd6e52104b9c6f67f575bf1c3"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.0792007446289062,
+              0.41883182525634766,
+              1.8470721244812012
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ballas1.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/ballas1dff.webp",
+        "hash": "SHA256:bd164e4a47765e1baa9cfc4084814e85bc93f89dbf52031dde7bcf95ea63381c"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9308128356933594,
+              0.3944317102432251,
+              1.8734827041625977
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ballas2.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/ballas2dff.webp",
+        "hash": "SHA256:033aab3f95edca72009b169f562b59f554223c6414e22d103b7e115be4bed73e"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.2544277906417847,
+              0.39934033155441284,
+              1.8803906440734863
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ballas3.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/ballas3dff.webp",
+        "hash": "SHA256:b1c752dfc1880057211c65a6a0faabf2ca45343568e890180c297b5ac1fbd6ba"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9308128356933594,
+              0.4098774194717407,
+              1.9108283519744873
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bat",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bat.webp",
+        "hash": "SHA256:7dbc2ac3a0ccdce9f94f68a4479e0ed9310c62a28241bf1e42571bb47fe4872e"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.06877566874027252,
+              0.12886808812618256,
+              0.8897794485092163
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bfori.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bforidff.webp",
+        "hash": "SHA256:92d6949dbcee61ab3a454770d497d240f26264ce50053f19d542dca590c76e4d"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.7125837206840515,
+              0.35932987928390503,
+              1.777250051498413
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bfost.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bfostdff.webp",
+        "hash": "SHA256:8d7e5daa7250470c10530bde127ba4ae823c28bb74bf4c9df261fb9acb01926e"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.281726598739624,
+              0.4172694683074951,
+              1.6479980945587158
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bfybe.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bfybedff.webp",
+        "hash": "SHA256:2064d6fd607c25f08048a48556ea9e316e661ce410274febbeabb45f9f4ccefb"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8627309203147888,
+              0.3376349210739136,
+              1.7917048931121826
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bfybu.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bfybudff.webp",
+        "hash": "SHA256:ddfdd6bdc32c8f4c45ae309e5070cf393b479ecffb1349cc3de98b9a328d5543"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.6865659952163696,
+              0.3099266290664673,
+              1.799299716949463
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bfypro.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bfyprodff.webp",
+        "hash": "SHA256:c0bbb2e15e2866e4581edd5e603f41bbd98445afa0a0553196d9d26ddcd9efaf"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8627309203147888,
+              0.31800132989883423,
+              1.7997767925262451
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bfyri.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bfyridff.webp",
+        "hash": "SHA256:3fbb26b0d810b51659ba41e40ca911ced0ec0b8cc19e0dc76e4d0495e8653366"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.6856473088264465,
+              0.3224877119064331,
+              1.7844421863555908
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bfyst.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bfystdff.webp",
+        "hash": "SHA256:aab0d9909840d1a11fbc2b21401b4a82096497b3c8e4bca7c39852e03061770c"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.063441514968872,
+              0.34739816188812256,
+              1.816899299621582
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bikdrug.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bikdrugdff.webp",
+        "hash": "SHA256:0f030c48114168f06c77533c6d21a4cbe006177428d993709b0a5112130d99dd"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9308128356933594,
+              0.36359792947769165,
+              1.8871707916259766
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bikera.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bikeradff.webp",
+        "hash": "SHA256:0f030c48114168f06c77533c6d21a4cbe006177428d993709b0a5112130d99dd"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9308128356933594,
+              0.36359792947769165,
+              1.8871707916259766
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bikerb.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bikerbdff.webp",
+        "hash": "SHA256:1305bb970db4929ca2e0a0defeec931ff63896a26b63440dec3d4a4d1520a091"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9345563650131226,
+              0.34492921829223633,
+              1.9220824241638184
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bmobar.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bmobardff.webp",
+        "hash": "SHA256:7c512f7d3346193fbf11c4a6803702493d207de2610783ee9166a63fe5bf64a5"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9020081758499146,
+              0.3711109459400177,
+              1.898545265197754
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bmocd.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bmocddff.webp",
+        "hash": "SHA256:f1e884ccbf1e5b12b46324c89620dffa64d7a1ed1be332cff9cabd588be9b4ba"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8507248163223267,
+              0.3724103569984436,
+              1.809009313583374
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bmochil.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bmochildff.webp",
+        "hash": "SHA256:16f55fff30eb0bd2b06c7f3b819a76349070c23780e27df20727e8a72c1ffb8b"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8698118925094604,
+              0.3806684613227844,
+              1.840518593788147
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bmori.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bmoridff.webp",
+        "hash": "SHA256:08901513faac2ce395347d784ab35964859b4e194fe4b3a01eb054a21b92d524"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9020081758499146,
+              0.33913058042526245,
+              1.8830749988555908
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bmosec.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bmosecdff.webp",
+        "hash": "SHA256:9bae6b7f08076b137fc2bcd817d2852a88a862c81e44f2c8b71954d0cff20ae0"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.719069242477417,
+              0.30340638756752014,
+              1.6962110996246338
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bmost.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bmostdff.webp",
+        "hash": "SHA256:087c19717d3bf140e07b4df6700892f1c37adae92c0208e799ea848f6f0fa146"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8731047511100769,
+              0.3686046600341797,
+              1.8517475128173828
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bmotr1.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bmotr1dff.webp",
+        "hash": "SHA256:2d111fcfe51d9c8d2e16fb4f59676732424ec7d3efadb0eddbc39d9d5f2b797e"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8559467792510986,
+              0.4301494359970093,
+              1.8259286880493164
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bmyap.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bmyapdff.webp",
+        "hash": "SHA256:b5b6782927648fb4e72db4d6ca558b9d5de0ecf84ef3fc24192d6fc65abcc359"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.0223171710968018,
+              0.3697497844696045,
+              1.9031810760498047
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bmybar.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bmybardff.webp",
+        "hash": "SHA256:f41e2aaece30d6c7fe38e6778944409aed1ff949a763f46588d1bc744e4f6fe2"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9308128356933594,
+              0.3850691318511963,
+              1.8908878564834595
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bmybe.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bmybedff.webp",
+        "hash": "SHA256:b5e0a8ab4f25c7a22ce25231af4bca938052863fb6a7bfa81c39942cee6ef892"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.954786479473114,
+              0.30420613288879395,
+              1.8483545780181885
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bmyboun.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bmyboundff.webp",
+        "hash": "SHA256:2644c71611e2d79ff517089052ef77de549c855a5277e1a44416563f9d402071"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8579041957855225,
+              0.34011340141296387,
+              1.8422601222991943
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bmybu.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bmybudff.webp",
+        "hash": "SHA256:88968fbcc163c724d37ebe42055559f1cac307b1111d8dfd3feff03f7e173483"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8505440354347229,
+              0.33947527408599854,
+              1.842721939086914
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bmycg.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bmycgdff.webp",
+        "hash": "SHA256:1ab7be5cb4cd7cb519a2b1c29d0fc2f99edc88882d4ce81e33bc0f73799391d6"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9308128356933594,
+              0.3850691318511963,
+              1.9148032665252686
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bmycon.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bmycondff.webp",
+        "hash": "SHA256:dd7f7f2618e43e31c0623c3096b779adce5a2dc9213256934de100cf5e642307"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9202852249145508,
+              0.3592168092727661,
+              1.9294403791427612
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bmycr.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bmycrdff.webp",
+        "hash": "SHA256:9171e11caf281375d7e20d96be7a58714d0021ae96ef5365677cb4fb0f1be7a3"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9308128356933594,
+              0.39442917704582214,
+              1.8734827041625977
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bmydj.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bmydjdff.webp",
+        "hash": "SHA256:f2358c977f8e039771927bad8f9d05d33378ce6f10da286b1bc044f7bfb61d27"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.0244824886322021,
+              0.3339405655860901,
+              1.8644771575927734
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bmydrug.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bmydrugdff.webp",
+        "hash": "SHA256:2634b176566439927669c6ce64e5723c1d58213f83397dc2150572821298daa2"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9201197624206543,
+              0.3548543453216553,
+              1.8898489475250244
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bmymib.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bmymibdff.webp",
+        "hash": "SHA256:3b99064ef804cafbcd21cc4263528dd2066318f897b5d4cdcbc6d5f843c61412"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.1670382022857666,
+              0.37531769275665283,
+              1.8317584991455078
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bmymoun.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bmymoundff.webp",
+        "hash": "SHA256:4f2c570dd084aff14ffeea361ad3681504d8dffaa8d1b880f4ef00943a28b3fa"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.0244824886322021,
+              0.3276888132095337,
+              1.8721873760223389
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bmypimp.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bmypimpdff.webp",
+        "hash": "SHA256:f5f6d0aeb19a1df7b006b7b5e0e16ce5c8ac48a781002066f0a0e022df1efbfa"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8893541097640991,
+              0.37599414587020874,
+              1.8752069473266602
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bmypol1.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bmypol1dff.webp",
+        "hash": "SHA256:74d859966e57a5b4b30674d62e638cabf18b536ef9be3abae8910ea255a04e0e"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.0659759044647217,
+              0.41565245389938354,
+              1.8254706859588623
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bmyri.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bmyridff.webp",
+        "hash": "SHA256:3bfe547cad0f1c3434ed3dc2a967ebcb694d79d11b9fa797ec80a2e5b1ab486b"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9224355220794678,
+              0.3343569040298462,
+              1.890073299407959
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bmyst.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bmystdff.webp",
+        "hash": "SHA256:99a57ea770d156e5aaac62ba1e289178e96175a27c693bce381e69dff9b8aec3"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9308127760887146,
+              0.3778684735298157,
+              1.908329963684082
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bmytatt.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bmytattdff.webp",
+        "hash": "SHA256:673fe8419b5476f0702af6563b1f036f10846e699964eec2093897029cff89bb"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9308128356933594,
+              0.3850741386413574,
+              1.9019023180007935
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bodyarmour_l0",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bodyarmour_l0.webp",
+        "hash": "SHA256:9fb3fa463be9794ca4020b8bfa13e69387ed44a9ab92a6dbd3cf5e3536db61e3"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.2712017893791199,
+              0.2120608687400818,
+              0.3403872847557068
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bomb",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/bomb.webp",
+        "hash": "SHA256:2794c8ac4b74eac983c839c7bb4ffa01729a92fa6ac8f0c70e9c2bbd018c2bec"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8800007700920105,
+              0.16000010073184967,
+              0.07700829952955246
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "bonnet_dummy",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "390392df-a33d-41cf-9675-23bd6b1874ad"
+      }
+    },
+    {
+      "name": "bonnet_dummy.001",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "12bc6a3b-594f-45b7-a25f-3d261a8cea50"
+      }
+    },
+    {
+      "name": "boot_dummy",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "12bc6a3b-594f-45b7-a25f-3d261a8cea50"
+      }
+    },
+    {
+      "name": "BRASSKNUCKLE",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/brassknuckle.webp",
+        "hash": "SHA256:7cf3c0a82f0087e0fc7a6dff5cf1e9f7279538a4caec506d4d822a3536c94bb5"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.11865977942943573,
+              0.04248952865600586,
+              0.16007019579410553
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "breaklight_l",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "3e6b4982-404b-406b-a369-497b4176c9be"
+      }
+    },
+    {
+      "name": "breaklight_r",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "3e6b4982-404b-406b-a369-497b4176c9be"
+      }
+    },
+    {
+      "name": "bump_front_dummy",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "12bc6a3b-594f-45b7-a25f-3d261a8cea50"
+      }
+    },
+    {
+      "name": "bump_front_dummy.001",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "390392df-a33d-41cf-9675-23bd6b1874ad"
+      }
+    },
+    {
+      "name": "bump_rear_dummy",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "12bc6a3b-594f-45b7-a25f-3d261a8cea50"
+      }
+    },
+    {
+      "name": "Camera",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/camera.webp",
+        "hash": "SHA256:fc780ebe402ac12b433f6e12007e06666d4b6b08d864a557ae3c19aa0f145f46"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.27116698026657104,
+              0.1840793341398239,
+              0.11236613988876343
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cellphone",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/cellphone.webp",
+        "hash": "SHA256:ba5bf0b31b1baabe2c56bd402e5f7d25da33a41b598943605dde40190dd2e349"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.08112082630395889,
+              0.06961604952812195,
+              0.36840134859085083
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cesar.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/cesardff.webp",
+        "hash": "SHA256:cecd7106dcecff8dbf307dfd21df6ac345b8746ea9c89b9a9ce197df96eb3150"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.0943024158477783,
+              0.3417885899543762,
+              1.8202855587005615
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "chassis_dummy",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "390392df-a33d-41cf-9675-23bd6b1874ad"
+      }
+    },
+    {
+      "name": "chassis_dummy.001",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "12bc6a3b-594f-45b7-a25f-3d261a8cea50"
+      }
+    },
+    {
+      "name": "chnsaw",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/chnsaw.webp",
+        "hash": "SHA256:9c2a1cb06e05ad7776adef492cbebc90423ca3176c9a5fdbb14749aba66855c8"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8111608028411865,
+              0.25117626786231995,
+              0.5332850217819214
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "chromegun",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/chromegun.webp",
+        "hash": "SHA256:5408460d625e4e7e6a9a6389773afc871fe00f14234a3a8b7dcaa0a259815580"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.0438823699951172,
+              0.1539236605167389,
+              0.3174614906311035
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "claude.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/claudedff.webp",
+        "hash": "SHA256:b2ab2d0b1ec35add05cda729eba91bfbd7c7db15810e54f7d52e0505a54ea604"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.2004268169403076,
+              0.3759409785270691,
+              1.8866989612579346
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "colt45",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/colt45.webp",
+        "hash": "SHA256:3aa10945205a055011799f15ad339d069c0d98d9bd5adddc8a1ab183640f20be"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.24810455739498138,
+              0.052593640983104706,
+              0.1826009452342987
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "copgrl3.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/copgrl3dff.webp",
+        "hash": "SHA256:3e39c58c506e86de12b93f029b41c22e215c6568f61cf29c55c4525f2a1424ec"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8558748960494995,
+              0.29082366824150085,
+              1.824075698852539
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "crogrl3.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/crogrl3dff.webp",
+        "hash": "SHA256:944fc7cef80537c57739b4a4bc49cdeccd90a675dd7e092150b0d729d25b31f2"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.6116208434104919,
+              0.3356194794178009,
+              1.822101354598999
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "csher.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/csherdff.webp",
+        "hash": "SHA256:ea3bcd3b9bb9a229a3c6aaebc16956f2ef8b1b9fa86ef64386e04c5dfc45c4fc"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.0325533151626587,
+              0.34758269786834717,
+              1.8756828308105469
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cuntgun",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/cuntgun.webp",
+        "hash": "SHA256:d9a9ffff770b1efe12c055bd87bca2382572647083145e157c56a96bb28ef7f4"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.026345133781433,
+              0.14811915159225464,
+              0.30795395374298096
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cwfofr.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/cwfofrdff.webp",
+        "hash": "SHA256:79a38796bb52094f5e38d7d19f1d31e787cef89592495e37c624c99994e64721"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.7062684297561646,
+              0.3606562614440918,
+              1.6449869871139526
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cwfohb.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/cwfohbdff.webp",
+        "hash": "SHA256:ef1d37bbe4da665b7bc52c67b04887b9a4a8c37c360bfa5d353436a045faac5e"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.2286709547042847,
+              0.4208643436431885,
+              1.670607089996338
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cwfyfr1.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/cwfyfr1dff.webp",
+        "hash": "SHA256:341592c1749fe76ab3f69d978efa81406a53a7cf680a79a733c05bdced0ff324"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9832234382629395,
+              0.37538063526153564,
+              1.8157680034637451
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cwfyfr2.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/cwfyfr2dff.webp",
+        "hash": "SHA256:70de04825b97fecdd1d0704b1d708d751a14ad264c86638e5cfea2ff52359b12"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.2755141258239746,
+              0.3438619375228882,
+              1.664292335510254
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cwfyhb.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/cwfyhbdff.webp",
+        "hash": "SHA256:b516c555f22857334fc1879c0145c9932bf01e492c353183f848a175fed07775"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9832234382629395,
+              0.3618248999118805,
+              1.7734521627426147
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cwmofr.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/cwmofrdff.webp",
+        "hash": "SHA256:ed667ff0761d374b27470dcc989988bc501d4c2e997ef5d57c7c4bee158a3bd8"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.0007092952728271,
+              0.3620910048484802,
+              1.8688597679138184
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cwmohb1.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/cwmohb1dff.webp",
+        "hash": "SHA256:9b6ffec399b0df33633d435e309717e26d39bc55d54b027c80c003553b5de40f"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9691075086593628,
+              0.32257866859436035,
+              1.8408749103546143
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "desert_eagle",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/desert_eagle.webp",
+        "hash": "SHA256:9a31f151285d8198fcca2f4da3bc4149e159b99c29d1dfc97a32516f30a87efc"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.34830009937286377,
+              0.06780537217855453,
+              0.1908932626247406
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dnb1.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/dnb1dff.webp",
+        "hash": "SHA256:763c3bf0a6f3feb69ae6120984cef180a65ac51bb2aad0266b09fbd7f661bea0"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.3192024230957031,
+              0.35082384943962097,
+              1.8539915084838867
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dnb2.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/dnb2dff.webp",
+        "hash": "SHA256:823bec2faec1809384963b53cc0faac4eb426b089e56bf70a2056c20bd0118bf"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.0399894714355469,
+              0.3320077657699585,
+              1.850817084312439
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dnb3.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/dnb3dff.webp",
+        "hash": "SHA256:a69c21873570cd46b0048091321530d90ef50114d06f8d4adad4af1e2ee21ecc"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9477920532226562,
+              0.38507163524627686,
+              1.8853113651275635
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dnfolc1.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/dnfolc1dff.webp",
+        "hash": "SHA256:f7522a30babd4fb1ee50e58cdfcf0424268bbb3717000795a541272055e4cd5c"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.7062684297561646,
+              0.478941410779953,
+              1.6429150104522705
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dnfolc2.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/dnfolc2dff.webp",
+        "hash": "SHA256:07132fda27cd15fd2e8ae57916b52609526372c068be4904d4a744c23652f512"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.2283928394317627,
+              0.46867311000823975,
+              1.6528613567352295
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dnfylc.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/dnfylcdff.webp",
+        "hash": "SHA256:4c4b2b9d8e9ef9091961d28b8d3d1537118161e73599a1ce7fd12b2cdb2bf50d"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9790617823600769,
+              0.31937897205352783,
+              1.778489589691162
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dnmolc1.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/dnmolc1dff.webp",
+        "hash": "SHA256:27efc2201464da09a210219750f4ec7ea4abe3422f8721f479fb90f3319edaf4"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.7132819890975952,
+              0.2876976728439331,
+              1.6747931241989136
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dnmolc2.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/dnmolc2dff.webp",
+        "hash": "SHA256:90b04dc9da65905be74a5772ad7f547aeb73f12b0d5e275222a6cdc5b7ae52ae"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.0135951042175293,
+              0.3240927457809448,
+              1.8091325759887695
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dnmylc.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/dnmylcdff.webp",
+        "hash": "SHA256:a6056b6b0fc8a9648447f438c87704332e6983ae816f0750960812879ef84530"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.0098869800567627,
+              0.3327864408493042,
+              1.835923671722412
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "door_lf_dummy",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "12bc6a3b-594f-45b7-a25f-3d261a8cea50"
+      }
+    },
+    {
+      "name": "door_lf_dummy.001",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "390392df-a33d-41cf-9675-23bd6b1874ad"
+      }
+    },
+    {
+      "name": "door_lr_dummy",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "12bc6a3b-594f-45b7-a25f-3d261a8cea50"
+      }
+    },
+    {
+      "name": "door_rf_dummy",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "12bc6a3b-594f-45b7-a25f-3d261a8cea50"
+      }
+    },
+    {
+      "name": "door_rf_dummy.001",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "390392df-a33d-41cf-9675-23bd6b1874ad"
+      }
+    },
+    {
+      "name": "door_rr_dummy",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "12bc6a3b-594f-45b7-a25f-3d261a8cea50"
+      }
+    },
+    {
+      "name": "dsher.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/dsherdff.webp",
+        "hash": "SHA256:d26df251cc051401b29c54ec9651ad25aad291f86309ca522d53b3f09657dedf"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.0325534343719482,
+              0.34758269786834717,
+              1.8756828308105469
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dwayne.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/dwaynedff.webp",
+        "hash": "SHA256:7bbb688b87c46306f58892b6f2f4414a6fec305f20f17e43fc7cfaf2b192ea68"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.1663330793380737,
+              0.3634868264198303,
+              1.8628721237182617
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dwfolc.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/dwfolcdff.webp",
+        "hash": "SHA256:6ec11a818d3df17a15b7ddd14cf8697b5cd787bc08686635eba7ed25cb4abc83"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.2460683584213257,
+              0.40569090843200684,
+              1.683240532875061
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dwfylc1.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/dwfylc1dff.webp",
+        "hash": "SHA256:58c40d81f93ec1c43fdb23d668cf19a92390f12dbafb64292300c7fef7559ef0"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9308829307556152,
+              0.384330153465271,
+              1.8775354623794556
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dwfylc2.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/dwfylc2dff.webp",
+        "hash": "SHA256:9dcd4b9957ee726c54bba9391825b7158753293664b1c1bbf7556bf22b8a3944"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9790617823600769,
+              0.3289594054222107,
+              1.7900829315185547
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dwmolc1.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/dwmolc1dff.webp",
+        "hash": "SHA256:4fe095fef9bc983085609887af464ade2fa5db3dcf45a44d0e1530e9e0ea8490"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.7132819890975952,
+              0.30381059646606445,
+              1.736459732055664
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dwmolc2.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/dwmolc2dff.webp",
+        "hash": "SHA256:19f00653b07ae8f30b7b1aced4c51f0a01d1508df7ef207690598faf16ea6039"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.6929313540458679,
+              0.334051251411438,
+              1.7178748846054077
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dwmylc1.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/dwmylc1dff.webp",
+        "hash": "SHA256:665f7b5099b4b68ea4dba3f7986f28aec7654ca3484ca767a9a001e476c46c13"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.0135951042175293,
+              0.35166358947753906,
+              1.8141332864761353
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dwmylc2.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/dwmylc2dff.webp",
+        "hash": "SHA256:a809c57251d02687138de0f3a2e20e5d216b923e80357d80704c8f15ceadc9fb"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.0135951042175293,
+              0.32342958450317383,
+              1.8091325759887695
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "engine.001",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "12bc6a3b-594f-45b7-a25f-3d261a8cea50"
+      }
+    },
+    {
+      "name": "engine.002",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "390392df-a33d-41cf-9675-23bd6b1874ad"
+      }
+    },
+    {
+      "name": "exhaust.001",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "12bc6a3b-594f-45b7-a25f-3d261a8cea50"
+      }
+    },
+    {
+      "name": "exhaust.002",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "390392df-a33d-41cf-9675-23bd6b1874ad"
+      }
+    },
+    {
+      "name": "fam1.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/fam1dff.webp",
+        "hash": "SHA256:f8b942e0173f97f64ffc4bd3ba8bee8050209c9a966f51ef5454a9aba2b2c533"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.2519766092300415,
+              0.4046629071235657,
+              1.8803906440734863
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "fam2.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/fam2dff.webp",
+        "hash": "SHA256:19c17fb472bd9ce253d98b55dbc87811a0adc9a1aadc349fb5574e824bd5309d"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9308128356933594,
+              0.3850691318511963,
+              1.8908878564834595
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "fam3.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/fam3dff.webp",
+        "hash": "SHA256:dada8835a624cf9d9d417aa07ba608dce0476b52650f25956be959ca4128db3b"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9220408201217651,
+              0.38507163524627686,
+              1.9055209159851074
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "fbi.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/fbidff.webp",
+        "hash": "SHA256:ba16b36f75d7ce9892a3671040a95e6cf3b9b3d05b1d6344e7238a1454cb7966"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.0395493507385254,
+              0.370182067155838,
+              1.8392033576965332
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "fire_ex",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/fire_ex.webp",
+        "hash": "SHA256:2e31a10c122d6c3c71481cc84baa6bed07f770ac3ddb6a7a949aa732a72572ee"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5201502442359924,
+              0.19365516304969788,
+              0.5851107835769653
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "flame",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/flame.webp",
+        "hash": "SHA256:da6f77e2e0a8eae5386a96cc65b786bdceb1cc866c8d264b700062778fc5115b"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.0682108402252197,
+              0.29825717210769653,
+              0.7298834323883057
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "flowera",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/flowera.webp",
+        "hash": "SHA256:3047875d923398f45e5c5f41c0e656d04e575f34853f30e2af2e0012bb162782"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.21590785682201385,
+              0.11647733300924301,
+              0.678432047367096
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "foglight_l_bg",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "3e6b4982-404b-406b-a369-497b4176c9be"
+      }
+    },
+    {
+      "name": "foglight_r_bg",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "3e6b4982-404b-406b-a369-497b4176c9be"
+      }
+    },
+    {
+      "name": "gangrl3.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/gangrl3dff.webp",
+        "hash": "SHA256:f4678ccf8de67b8eca659e0efb223dde6a322417d62284e70c0f955806d5e3f8"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8520870208740234,
+              0.38364461064338684,
+              1.819777250289917
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "golfclub",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/golfclub.webp",
+        "hash": "SHA256:dffae42a5e1ab4c3dcf411543ae478b99a2945837edd157cbe4b72c0bdf7b9d2"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.09562941640615463,
+              0.06900286674499512,
+              1.0021891593933105
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "grenade",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/grenade.webp",
+        "hash": "SHA256:e48d5d565a94b65806cd9f68fea11cd0b7b4a0d74e0f34e4d403f9ccc06c88d1"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.08285766839981079,
+              0.09607113897800446,
+              0.14802837371826172
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "gun_cane",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/gun_cane.webp",
+        "hash": "SHA256:ec194df8bffda76bac4df1de9c51957caf8a6ba9d08451374bdae118cea15ce3"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.18376897275447845,
+              0.06994876265525818,
+              1.1783396005630493
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "gun_dildo1",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/gun_dildo1.webp",
+        "hash": "SHA256:ece15d3f9a790448e81810d6cbcdd869de50581501369b5093b705fe0722466a"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.21673038601875305,
+              0.046216078102588654,
+              0.5363981127738953
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "gun_dildo2",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/gun_dildo2.webp",
+        "hash": "SHA256:c3c3afa2f7a4528535bc9ff5403ca70116239ed6786917ce320c04935772132a"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.06554697453975677,
+              0.05214890465140343,
+              0.2446395456790924
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "gun_para",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/gun_para.webp",
+        "hash": "SHA256:d733471957a8c4ef5992781b3fb2a0b68ebe569e0b4712c6b932fc66f4187c20"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.35637614130973816,
+              0.24606209993362427,
+              0.5009195804595947
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "gun_vibe1",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/gun_vibe1.webp",
+        "hash": "SHA256:b8f7ddc771da040e17c19295ba32014b90035987f486be1121abef6d21c0d36c"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.09967875480651855,
+              0.08006531000137329,
+              0.4647669196128845
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "gun_vibe2",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/gun_vibe2.webp",
+        "hash": "SHA256:f32dcb1b77b5b1586cb045cf7894aedc8809bceddc87597597cf1c242957f557"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.0744238942861557,
+              0.05216270685195923,
+              0.28602319955825806
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "gungrl3.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/gungrl3dff.webp",
+        "hash": "SHA256:7076d057197a84fd3d4237284b4bcb54210902f84d9402edb7fdd6788cb43015"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8558748960494995,
+              0.30753862857818604,
+              1.8297301530838013
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "headlights.001",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "12bc6a3b-594f-45b7-a25f-3d261a8cea50"
+      }
+    },
+    {
+      "name": "headlights.003",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "390392df-a33d-41cf-9675-23bd6b1874ad"
+      }
+    },
+    {
+      "name": "heatseek",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/heatseek.webp",
+        "hash": "SHA256:60cbc74a5fd00e8961e72f96640984d12ca03f849e97843de66d874873d9679b"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.0812311172485352,
+              0.15242868661880493,
+              0.29556727409362793
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "heck1.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/heck1dff.webp",
+        "hash": "SHA256:096d5d228a3c92241280ae92783ed826d12e8d8f927e0ff7c7e4760bc8b65f71"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.353973627090454,
+              0.41431957483291626,
+              1.8625991344451904
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "heck2.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/heck2dff.webp",
+        "hash": "SHA256:87704f55d90cd0b1742bdbdb19c2f2d7e500f2ac26bf1eb1124a87a9d09bc770"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.3539737462997437,
+              0.4198421239852905,
+              1.8625991344451904
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "hfori.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/hforidff.webp",
+        "hash": "SHA256:16667d4cea4ee12b1502ce0b3bfbeee4c88691fce64075c2bdbd224826b08079"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.7113300561904907,
+              0.3078473210334778,
+              1.6644808053970337
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "hfost.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/hfostdff.webp",
+        "hash": "SHA256:9dbeb8de9d44ad94674b49b6e9aa691b08e3e96526963f6086998d9638eadd48"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.281726598739624,
+              0.4172694683074951,
+              1.6473884582519531
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "hfybe.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/hfybedff.webp",
+        "hash": "SHA256:63c2e571a53b93f2edb09ef878363ecf7df2def98521e091050dd14d23869da4"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8627309203147888,
+              0.3214230239391327,
+              1.8015258312225342
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "hfypro.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/hfyprodff.webp",
+        "hash": "SHA256:fa42ed5a1dd56869085093ab67bbd451b730781a72f32d99c33f20b2f67d5485"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9790617823600769,
+              0.3269309997558594,
+              1.778600811958313
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "hfyri.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/hfyridff.webp",
+        "hash": "SHA256:87af53cbe46ebe4ba4998a8b1fb431f68cd7c8d6dc995dd0476b8a94d28086e1"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.6856484413146973,
+              0.2647881507873535,
+              1.7081563472747803
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "hfyst.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/hfystdff.webp",
+        "hash": "SHA256:65403892e1ec8bcfe168a84e8e2cfe27bff7d6134ac7c24f68f72067c6fc039e"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.0630511045455933,
+              0.31349119544029236,
+              1.823920726776123
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "hmogar.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/hmogardff.webp",
+        "hash": "SHA256:6b0f19e67f966e3a103550cff8c9d4756f2e3ba370176589b9cdcb256a8e4f8f"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.797573983669281,
+              0.3524935841560364,
+              1.8478758335113525
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "hmori.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/hmoridff.webp",
+        "hash": "SHA256:ab048cc62462ba417a15482197a267bd878af5fa16c13a7c8e469f17f592f550"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.6856598258018494,
+              0.32917898893356323,
+              1.6963955163955688
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "hmost.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/hmostdff.webp",
+        "hash": "SHA256:4edd6ff37a03ef835a009fb8207d4f4fedcdeb11d127c5ba192770a3e07dfb57"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.6912062168121338,
+              0.33996284008026123,
+              1.688697338104248
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "hmybe.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/hmybedff.webp",
+        "hash": "SHA256:704297d3f38008e7cfcf8f401105e289a95ab068a0f2df996928e02787371cb1"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.954786479473114,
+              0.30420613288879395,
+              1.8431098461151123
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "hmycm.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/hmycmdff.webp",
+        "hash": "SHA256:32a2fc9ad070494cf57aabbe01502ce328e279a0490ac9f9ce61354a224da928"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.0244824886322021,
+              0.3284724950790405,
+              1.8502380847930908
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "hmycr.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/hmycrdff.webp",
+        "hash": "SHA256:bac665709414c267208008f7ed04b797c1b10546a9dae19fc854ac947b7e76c5"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9308128356933594,
+              0.392219603061676,
+              1.8814022541046143
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "hmydrug.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/hmydrugdff.webp",
+        "hash": "SHA256:d564d89e5e05473cdf6cae579e42912849b0770a2c7555091ef882aae6b95123"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9308128356933594,
+              0.35485219955444336,
+              1.8814022541046143
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "hmyri.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/hmyridff.webp",
+        "hash": "SHA256:3e846ee2ac44460c45502949a6c50935b93c19807f4b169fe7f25cd7330b9626"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.033058762550354,
+              0.36374902725219727,
+              1.8528063297271729
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "hmyst.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/hmystdff.webp",
+        "hash": "SHA256:a193f4f6f2eecfcd232c84c874517fe02b549547727c965bc447ae86b05e2e84"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9308124780654907,
+              0.3512728810310364,
+              1.9032132625579834
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "indicator_lf",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "3e6b4982-404b-406b-a369-497b4176c9be"
+      }
+    },
+    {
+      "name": "indicator_lm",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "3e6b4982-404b-406b-a369-497b4176c9be"
+      }
+    },
+    {
+      "name": "indicator_lr",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "3e6b4982-404b-406b-a369-497b4176c9be"
+      }
+    },
+    {
+      "name": "indicator_rf",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "3e6b4982-404b-406b-a369-497b4176c9be"
+      }
+    },
+    {
+      "name": "indicator_rm",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "3e6b4982-404b-406b-a369-497b4176c9be"
+      }
+    },
+    {
+      "name": "indicator_rr",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "3e6b4982-404b-406b-a369-497b4176c9be"
+      }
+    },
+    {
+      "name": "irgoggles",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/irgoggles.webp",
+        "hash": "SHA256:ea9a04c08799830229c7a9dbd7a3c59f82a481c6377a8d1e8d0f43d68da2baf5"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.0800914391875267,
+              0.12786798179149628,
+              0.1486644297838211
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "jetpack",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/jetpack.webp",
+        "hash": "SHA256:2f601586096935a90cf67a6117eda39a991d67f3f978223242c800a157b287e1"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8676446676254272,
+              0.9032163619995117,
+              0.7820711731910706
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "katana",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/katana.webp",
+        "hash": "SHA256:073a88c36178e6f48af77601a230cd95e54c231aa9b48ecd24060be05e44eba6"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.07791051268577576,
+              0.08536902070045471,
+              1.2654929161071777
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "knifecur",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/knifecur.webp",
+        "hash": "SHA256:5a07aa5f53507d11b5efecff9f3412429e96bf03607f08ec81bb1ce7cc35fe48"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.06470105051994324,
+              0.04079601913690567,
+              0.41252878308296204
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "laemt1.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/laemt1dff.webp",
+        "hash": "SHA256:3c5370750fc49033c24eb15447d94edfe96e097d10a1f3cb50f3a35136c98a2d"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.0325534343719482,
+              0.34758269786834717,
+              1.8331432342529297
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "lafd1.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/lafd1dff.webp",
+        "hash": "SHA256:45ebc45bf2e3ae76f35df29f79840ebb2617fbab9280619037270d00c58895f5"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.0155411958694458,
+              0.45595690608024597,
+              1.9564465284347534
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "lapd1.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/lapd1dff.webp",
+        "hash": "SHA256:f737a3dcb7cc7dc17f6d1eedc10b1189fc3420383698c4221fa8c6a1364fc397"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.0325533151626587,
+              0.34758269786834717,
+              1.8392032384872437
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "lapdm1.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/lapdm1dff.webp",
+        "hash": "SHA256:9d9889ad91f89ac34b903846d5448432e4ad72d9cc6d63971903b3232715a329"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9350529313087463,
+              0.34349963068962097,
+              1.8635623455047607
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "lsv1.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/lsv1dff.webp",
+        "hash": "SHA256:8bdeb800cf67b41a3019e49653cdbc94528b942746c7b103ff44bf2e472edf68"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9337558746337891,
+              0.32756441831588745,
+              1.851462960243225
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "lsv2.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/lsv2dff.webp",
+        "hash": "SHA256:563d5cce747408e86292565cd4ee126cadc332e8698db893722dea548ec8e1cc"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9308128356933594,
+              0.3548518121242523,
+              1.8763668537139893
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "lsv3.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/lsv3dff.webp",
+        "hash": "SHA256:130fd2b20bcf985c67a94f2da14051b6a344e33d8137cccc4afc8699a1f7ba4c"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9308128356933594,
+              0.36365848779678345,
+              1.8734827041625977
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "lvemt1.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/lvemt1dff.webp",
+        "hash": "SHA256:4faa8ae2bb6073f20fab2f18b6ae6d2593455b467098224a56fef3ef15b85d26"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.0325534343719482,
+              0.34758269786834717,
+              1.8331432342529297
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "lvfd1.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/lvfd1dff.webp",
+        "hash": "SHA256:187e3321d1a6e65e953dfe40ac712d8fdbd652f3b9118e5351fe9cabfbe6607f"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.0155411958694458,
+              0.45595690608024597,
+              1.9564465284347534
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "lvpd1.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/lvpd1dff.webp",
+        "hash": "SHA256:2b4238e581a2c4ce7afa0f8050eec2c268f48b55359946d6afcf3fdd7cf7a997"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.0325533151626587,
+              0.34758269786834717,
+              1.8397289514541626
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "M4",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/m4.webp",
+        "hash": "SHA256:1c82df5428fd08c605358a5cf165b1479a4db5c717e42571f455a53a4369d6ff"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9940110445022583,
+              0.11658608913421631,
+              0.2769683599472046
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "maccer.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/maccerdff.webp",
+        "hash": "SHA256:ff48d0f02d2d94d8532a4a1873ce87ba9094578a4f954d3cd15bc64c67da3d8c"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.1678388118743896,
+              0.40621137619018555,
+              1.843940019607544
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "mafboss.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/mafbossdff.webp",
+        "hash": "SHA256:56404475e8cafae35fcf051a3025d9872bc68b7986cd46f123ae2f38a722efb7"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.3485968112945557,
+              0.361508846282959,
+              1.856350302696228
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "maffa.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/maffadff.webp",
+        "hash": "SHA256:cc99d26658c680d563c0fe1d9d638267a964a23fcf97f50dadde2b5d3c00d2f0"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8404301404953003,
+              0.37183910608291626,
+              1.8450449705123901
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "maffb.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/maffbdff.webp",
+        "hash": "SHA256:809f18feb1f7756a35d86d189957c2601510628f29b6bc3e4a760fc7d6946320"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.7562448978424072,
+              0.3779712915420532,
+              1.7096238136291504
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "male01.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/male01dff.webp",
+        "hash": "SHA256:c0439a1b2a66e605ff6b608d3ab8048934c5070fdf657ec1c148f18f5376af35"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9308127164840698,
+              0.3548518121242523,
+              1.904153823852539
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "mecgrl3.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/mecgrl3dff.webp",
+        "hash": "SHA256:23a65a505bb0ca3203f9a1dbdf786766aa4a6d0af148068aef4cfb922eabfb1f"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8558748960494995,
+              0.2900494337081909,
+              1.8170347213745117
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "micro_uzi",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/micro_uzi.webp",
+        "hash": "SHA256:85d7c65b9706a982bee0b89004000b883ef5661efd5a04f1541cab11ab7d1078"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.3130719065666199,
+              0.06335698068141937,
+              0.3956204652786255
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "minigun",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/minigun.webp",
+        "hash": "SHA256:6350023667f1e6fbdb1eb2e3c7cf0fe612e4d3eb16a93fa44a892abe2bfb0b69"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9173562526702881,
+              0.4084845781326294,
+              0.5946193933486938
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "missile",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/missile.webp",
+        "hash": "SHA256:4269780ff4d282fa6619e3445cb11cb4ee8491749ebaf5e59f3759771806da31"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.21844959259033203,
+              0.7046442031860352,
+              0.21844911575317383
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "molotov",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/molotov.webp",
+        "hash": "SHA256:a0e3121665016d3bbba024394748bf3d1d2aa01025158a47fd51c6ea965a76f5"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.07626865804195404,
+              0.08543214946985245,
+              0.38606056571006775
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "mp5lng",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/mp5lng.webp",
+        "hash": "SHA256:1f7e872b642bddade737198ae0e5715ac64687b843f61b589ec1a81c04cc617f"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5387629866600037,
+              0.09436629712581635,
+              0.3354714512825012
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "nitestick",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/nitestick.webp",
+        "hash": "SHA256:eef573000903ade81ef1b86af65d1b8a08c3e516e2463fc3fcfa56238d6e2123"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.1971842348575592,
+              0.031432271003723145,
+              0.6630884408950806
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "nurgrl3.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/nurgrl3dff.webp",
+        "hash": "SHA256:31ce1f977802577efc414d252145ec195a67fdca7e2ff7d25d35c01580acd1f4"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8558748960494995,
+              0.2866205871105194,
+              1.8200640678405762
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "nvgoggles",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/nvgoggles.webp",
+        "hash": "SHA256:ea9a04c08799830229c7a9dbd7a3c59f82a481c6377a8d1e8d0f43d68da2baf5"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.0800914391875267,
+              0.12786798179149628,
+              0.1486644297838211
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ofori.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/oforidff.webp",
+        "hash": "SHA256:79f6af5d33489a539dae19994670e4395561a8f3ea294dff1f117fdfd0e62b78"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9293379783630371,
+              0.32371872663497925,
+              1.651061773300171
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ofost.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/ofostdff.webp",
+        "hash": "SHA256:21ebd58ee93175f0fc93119dae32feba815477546c05e56cdf8999c01f0c92d7"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.162992238998413,
+              0.33883219957351685,
+              1.663742184638977
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ofyri.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/ofyridff.webp",
+        "hash": "SHA256:e0505276a498cff211e70c3dc1f386265f586d245b800896c73487f471cef7e4"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.6856484413146973,
+              0.28378403186798096,
+              1.7081563472747803
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ofyst.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/ofystdff.webp",
+        "hash": "SHA256:e54e03dd04c582e3041df262ecb20e8ab2787b420b83c83f9a7b8f7246c8248e"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.6856484413146973,
+              0.28378403186798096,
+              1.7042347192764282
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ogloc.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/oglocdff.webp",
+        "hash": "SHA256:6ec444117746e1c34371688f5f1ceecbed0b1a107746e25bea8f5f40d2c44f65"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.1038172245025635,
+              0.3480035960674286,
+              1.887879729270935
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "omoboat.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/omoboatdff.webp",
+        "hash": "SHA256:7ad75c8748c72b828cfd33cc636514189db31e5a6982c2d39a33fb64627461df"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.6565006971359253,
+              0.3006032109260559,
+              1.6749805212020874
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "omokung.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/omokungdff.webp",
+        "hash": "SHA256:0755c3218760786c28a68d5ab95e4763606c8394c244410f723dc9711c5cf78e"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9154127240180969,
+              0.3097110390663147,
+              1.7691924571990967
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "omonood.dff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/omonooddff.webp",
+        "hash": "SHA256:565b2a57898c6529d45ca60efb4fff212aa70917c784916fe2672a1b6da6d117"
+      },
+      "meta": {
+        "catalog_id": "060caf5c-2cd4-478d-90f2-1bf79c9698a7",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.7145413160324097,
+              0.292632132768631,
+              1.725816249847412
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "parachute",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/parachute.webp",
+        "hash": "SHA256:ec88705942ab29e8bba2575f928aec5c572b47423916eb52f5b4fcb0806057ef"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              4.319205284118652,
+              1.5993130207061768,
+              4.301652908325195
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ped_arm",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "12bc6a3b-594f-45b7-a25f-3d261a8cea50"
+      }
+    },
+    {
+      "name": "ped_arm.001",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "390392df-a33d-41cf-9675-23bd6b1874ad"
+      }
+    },
+    {
+      "name": "ped_backseat.001",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "12bc6a3b-594f-45b7-a25f-3d261a8cea50"
+      }
+    },
+    {
+      "name": "ped_frontseat.001",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "12bc6a3b-594f-45b7-a25f-3d261a8cea50"
+      }
+    },
+    {
+      "name": "ped_frontseat.003",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "390392df-a33d-41cf-9675-23bd6b1874ad"
+      }
+    },
+    {
+      "name": "petrolcap.001",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "12bc6a3b-594f-45b7-a25f-3d261a8cea50"
+      }
+    },
+    {
+      "name": "petrolcap.002",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "390392df-a33d-41cf-9675-23bd6b1874ad"
+      }
+    },
+    {
+      "name": "plate_front_ok",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/plate_front_ok.webp",
+        "hash": "SHA256:78eb31a9c2aeb1e3dde2d4afeafb51ed02bdabaa99e215f7d86b652aae87f63f"
+      },
+      "meta": {
+        "catalog_id": "af24755d-abb5-46aa-89e6-06d222229718",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.3112102150917053,
+              0.005565285682678223,
+              0.17434510588645935
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "plate_rear_ok",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/plate_rear_ok.webp",
+        "hash": "SHA256:000903e74af564579a23daeee512f0b8f835dfe6680f8403907fb34841199d9a"
+      },
+      "meta": {
+        "catalog_id": "af24755d-abb5-46aa-89e6-06d222229718",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.3112102150917053,
+              0.005564451217651367,
+              0.17434503138065338
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pneu Antigo",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/pneu-antigo.webp",
+        "hash": "SHA256:362febab885b0c3eef87282b356795f1400da172125ee19dc9387be236e7622d"
+      },
+      "meta": {
+        "catalog_id": "aa3cfa1e-47c9-43ca-a3c9-d870edb68fe6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.3035169243812561,
+              1.025768756866455,
+              1.025768756866455
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pneu Carga",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/pneu-carga.webp",
+        "hash": "SHA256:819d394f79cf7ff19ab55cd261fb1a0fca33e99883f776009cef307fd6104403"
+      },
+      "meta": {
+        "catalog_id": "aa3cfa1e-47c9-43ca-a3c9-d870edb68fe6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.311943918466568,
+              1.025768756866455,
+              1.0257686376571655
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pneu Esportivo",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/pneu-esportivo.webp",
+        "hash": "SHA256:4e8aaad691cc295b5f5380b242e0e97a43393963d7ef7cc4ab4c40d71caa6229"
+      },
+      "meta": {
+        "catalog_id": "aa3cfa1e-47c9-43ca-a3c9-d870edb68fe6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.3035169243812561,
+              1.0257686376571655,
+              1.025768756866455
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pneu Esportivo Urbano",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/pneu-esportivo-urbano.webp",
+        "hash": "SHA256:c7828e2593719abaf592ae46de1c504319f50253b1ae4db91aef7dac915f2527"
+      },
+      "meta": {
+        "catalog_id": "aa3cfa1e-47c9-43ca-a3c9-d870edb68fe6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.3035169243812561,
+              1.025768756866455,
+              1.025768756866455
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pneu Moto",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/pneu-moto.webp",
+        "hash": "SHA256:769cacb3547148523daec0ccdb680cca531efda7d76cd1548be5df773176a1a5"
+      },
+      "meta": {
+        "catalog_id": "aa3cfa1e-47c9-43ca-a3c9-d870edb68fe6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.14540918171405792,
+              1.0381269454956055,
+              1.0381269454956055
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pneu Off-Road Extremo",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/pneu-off-road-extremo.webp",
+        "hash": "SHA256:d4ec22af64d33c85f41d7bf676d9707652998bb071ccdc8be3d0e97e1c74c850"
+      },
+      "meta": {
+        "catalog_id": "aa3cfa1e-47c9-43ca-a3c9-d870edb68fe6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.30024147033691406,
+              1.025768756866455,
+              1.025768756866455
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pneu Off-Road Intermedi\u00e1rio",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/pneu-off-road-intermediario.webp",
+        "hash": "SHA256:72fe30ad2339145eddfdfee0216d5782e11a861be05850f179ddb07a5dfa61fa"
+      },
+      "meta": {
+        "catalog_id": "aa3cfa1e-47c9-43ca-a3c9-d870edb68fe6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.30024147033691406,
+              1.0257686376571655,
+              1.025768756866455
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pneu Sedan Comum",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/pneu-sedan-comum.webp",
+        "hash": "SHA256:f84e8102f2b3dde92fc86ab9a9e2e30a3452eebe67f95a1ef646d5585a80dad5"
+      },
+      "meta": {
+        "catalog_id": "aa3cfa1e-47c9-43ca-a3c9-d870edb68fe6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.3035169243812561,
+              1.025768756866455,
+              1.025768756866455
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pneu SUV Leve",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/pneu-suv-leve.webp",
+        "hash": "SHA256:f84e8102f2b3dde92fc86ab9a9e2e30a3452eebe67f95a1ef646d5585a80dad5"
+      },
+      "meta": {
+        "catalog_id": "aa3cfa1e-47c9-43ca-a3c9-d870edb68fe6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.3035169243812561,
+              1.025768756866455,
+              1.025768756866455
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "poolcue",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/poolcue.webp",
+        "hash": "SHA256:0a49815258d9d18d68868525ee4ce0985a2298af5713c5797f7eaf45a5e5856c"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.03185286372900009,
+              0.13711124658584595,
+              1.5378822088241577
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "reversinglight_l",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "3e6b4982-404b-406b-a369-497b4176c9be"
+      }
+    },
+    {
+      "name": "reversinglight_r",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "3e6b4982-404b-406b-a369-497b4176c9be"
+      }
+    },
+    {
+      "name": "rocketla",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/rocketla.webp",
+        "hash": "SHA256:8cc5a943f6d4d01f69669a102bae9f35ab74a91a3346e7c0b65bdc92f36ade66"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.4283000230789185,
+              0.15081317722797394,
+              0.2634139060974121
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "satchel",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/satchel.webp",
+        "hash": "SHA256:19a4d7656c04dffff6b8a3ca1d3fbc7b3c7fc43ff5d7cf052f186ef3ffdc99c6"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.22242185473442078,
+              0.17736682295799255,
+              0.5568772554397583
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "sawnoff",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/sawnoff.webp",
+        "hash": "SHA256:bd49ef69f65dae0154c7d317c1174fa31c4ee36e77fa0737cd1b69cd86221a32"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.33854424953460693,
+              0.0754169374704361,
+              0.1884722113609314
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "shotgspa",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/shotgspa.webp",
+        "hash": "SHA256:d688f048feb5e28c90e94dfa4f4d7bdd344ed11e9639e8081c01476d43056755"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.7142450213432312,
+              0.10585248470306396,
+              0.30753466486930847
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "shovel",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/shovel.webp",
+        "hash": "SHA256:00c5c27862218ec2412290f17bf30396d53ba4931a20e7b58e499b64c739e738"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.07388631999492645,
+              0.28523463010787964,
+              1.179390549659729
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "silenced",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/silenced.webp",
+        "hash": "SHA256:6ed0455d66c177d7957092dc2fdefe77cfc8c43c4b53fde74b5a34d58bde9819"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.36993861198425293,
+              0.06447770446538925,
+              0.20669332146644592
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SNIPER",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/sniper.webp",
+        "hash": "SHA256:7837f67af86e3c3a720909b1c0327ac7f49627a458c7a07dd9f25d41a5df5079"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.081366777420044,
+              0.14908137917518616,
+              0.24537816643714905
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SPRAYCAN",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/spraycan.webp",
+        "hash": "SHA256:a6cfc66b96a6e4df2f435eeb2e051c82557024846496aedbc063c8fd42eb6f86"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.08824428170919418,
+              0.06920237839221954,
+              0.23739266395568848
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "taillights.001",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "12bc6a3b-594f-45b7-a25f-3d261a8cea50"
+      }
+    },
+    {
+      "name": "taillights.003",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "390392df-a33d-41cf-9675-23bd6b1874ad"
+      }
+    },
+    {
+      "name": "taillights2.001",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "12bc6a3b-594f-45b7-a25f-3d261a8cea50"
+      }
+    },
+    {
+      "name": "TearGas",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/teargas.webp",
+        "hash": "SHA256:dc71a746664cd506b59a507e223fed3a3fc9936bd67ad50d4a8165601b550b91"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.10618306696414948,
+              0.07471804320812225,
+              0.2039550542831421
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tec9",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SABlenderWorkspace_thumbnails/Object/tec9.webp",
+        "hash": "SHA256:5367acd67a2c77acdfe4aefbf51e85a443647c99bded34aa4f850e2eac81bc62"
+      },
+      "meta": {
+        "catalog_id": "30342742-d3d1-4c17-bd54-e4d06a5be6a6",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.4064869284629822,
+              0.0750255286693573,
+              0.3688535988330841
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ug_bonnet",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "665e6c2a-ac1a-4474-9e06-5041eba2eb03"
+      }
+    },
+    {
+      "name": "ug_bonnet_dam",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "665e6c2a-ac1a-4474-9e06-5041eba2eb03"
+      }
+    },
+    {
+      "name": "ug_bonnet_left",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "665e6c2a-ac1a-4474-9e06-5041eba2eb03"
+      }
+    },
+    {
+      "name": "ug_bonnet_left_dam",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "665e6c2a-ac1a-4474-9e06-5041eba2eb03"
+      }
+    },
+    {
+      "name": "ug_bonnet_right",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "665e6c2a-ac1a-4474-9e06-5041eba2eb03"
+      }
+    },
+    {
+      "name": "ug_bonnet_right_dam",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "665e6c2a-ac1a-4474-9e06-5041eba2eb03"
+      }
+    },
+    {
+      "name": "ug_lights",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "665e6c2a-ac1a-4474-9e06-5041eba2eb03"
+      }
+    },
+    {
+      "name": "ug_lights_dam",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "665e6c2a-ac1a-4474-9e06-5041eba2eb03"
+      }
+    },
+    {
+      "name": "ug_nitro",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "665e6c2a-ac1a-4474-9e06-5041eba2eb03"
+      }
+    },
+    {
+      "name": "ug_nitro.001",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "390392df-a33d-41cf-9675-23bd6b1874ad"
+      }
+    },
+    {
+      "name": "ug_roof",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "665e6c2a-ac1a-4474-9e06-5041eba2eb03"
+      }
+    },
+    {
+      "name": "ug_spoiler",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "665e6c2a-ac1a-4474-9e06-5041eba2eb03"
+      }
+    },
+    {
+      "name": "ug_spoiler_dam",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "665e6c2a-ac1a-4474-9e06-5041eba2eb03"
+      }
+    },
+    {
+      "name": "ug_wing_left",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "665e6c2a-ac1a-4474-9e06-5041eba2eb03"
+      }
+    },
+    {
+      "name": "ug_wing_right",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "665e6c2a-ac1a-4474-9e06-5041eba2eb03"
+      }
+    },
+    {
+      "name": "wheel_lb_dummy",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "12bc6a3b-594f-45b7-a25f-3d261a8cea50"
+      }
+    },
+    {
+      "name": "wheel_lb_dummy.001",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "390392df-a33d-41cf-9675-23bd6b1874ad"
+      }
+    },
+    {
+      "name": "wheel_lf_dummy",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "12bc6a3b-594f-45b7-a25f-3d261a8cea50"
+      }
+    },
+    {
+      "name": "wheel_lf_dummy.001",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "390392df-a33d-41cf-9675-23bd6b1874ad"
+      }
+    },
+    {
+      "name": "wheel_rb_dummy",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "12bc6a3b-594f-45b7-a25f-3d261a8cea50"
+      }
+    },
+    {
+      "name": "wheel_rb_dummy.001",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "390392df-a33d-41cf-9675-23bd6b1874ad"
+      }
+    },
+    {
+      "name": "wheel_rf_dummy",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "12bc6a3b-594f-45b7-a25f-3d261a8cea50"
+      }
+    },
+    {
+      "name": "wheel_rf_dummy.001",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "390392df-a33d-41cf-9675-23bd6b1874ad"
+      }
+    },
+    {
+      "name": "windscreen_dummy",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "12bc6a3b-594f-45b7-a25f-3d261a8cea50"
+      }
+    },
+    {
+      "name": "windscreen_dummy.001",
+      "id_type": "OBJECT",
+      "files": [
+        "SABlenderWorkspace.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "390392df-a33d-41cf-9675-23bd6b1874ad"
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "SABlenderWorkspace.blend",
+      "size_in_bytes": 16866472,
+      "hash": "SHA256:f90340f06c931c9a816484ddfb61a71b62c10819c43f7155d22df6abcd6cde71",
+      "blender_version": "5.2.45"
+    }
+  ]
+}
